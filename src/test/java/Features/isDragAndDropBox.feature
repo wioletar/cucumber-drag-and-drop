@@ -1,9 +1,9 @@
 # new feature
 # Tags: optional
-@smokeTest
+
 Feature: Is box drag and drop
 Background:
-  Given open droppable subpage
+  Given Open drag and drop sub page
 
 Scenario: Simple drag and drop element
   Given Switch to frame
